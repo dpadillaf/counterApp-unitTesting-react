@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test in FirstApp should debe de mostrar FirstApp correctamente 1`] = `
+<Fragment>
+  <h1>
+     
+    hello, falkry
+     
+  </h1>
+  <p>
+    my first app react
+  </p>
+</Fragment>
+`;
